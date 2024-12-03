@@ -1,29 +1,18 @@
 {
   "link": [
     {
-      "name": "Wallabag",
-      "url": "https://wallabag.org/en",
-      "icon": "icon-wallabag.png",
-      "invert": true,
-      "tags": [
-        "bookmarks",
-        "links"
-      ]
-    },
-    {
-      "name": "Files",
-      "url": "https://larsjung.de/h5ai/",
-      "icon": "icon-files.png",
+      "name": "moodle upm",
+      "url": "https://moodle.upm.es/titulaciones/oficiales/my/",
+      "icon": "upm_c.png",
       "invert": false,
       "tags": [
-        "files",
-        "sharing"
+        "uni"
       ]
     },
     {
-      "name": "Gitea",
-      "url": "https://gitea.io",
-      "icon": "icon-gitea.png",
+      "name": "github",
+      "url": "https://github.com/c0mpl9x",
+      "icon": "github.png",
       "invert": false,
       "tags": [
         "git",
@@ -31,73 +20,41 @@
       ]
     },
     {
-      "name": "Webmail",
+      "name": "gmail",
       "url": "https://gmail.com",
-      "icon": "icon-mail.png",
+      "icon": "gmail.webp",
       "invert": false,
       "tags": [
-        "messaging",
-        "calendar"
+        "mail"
       ]
     },
     {
-      "name": "NextCloud",
-      "url": "https://nextcloud.com",
-      "icon": "icon-nextcloud.svg",
+      "name": "webmail upm",
+      "url": "https://upm.es/webmail_alumnos",
+      "icon": "upm_c.png",
+      "invert": false,
+      "tags": [
+        "mail"
+      ]
+    },
+    {
+      "name": "seafile cloud",
+      "url": "https://cloud.c0mpl9x.com/",
+      "icon": "seafile.png",
       "invert": false,
       "tags": [
         "private sharing",
-        "intranet"
+        "storage"
       ]
     },
     {
-      "name": "OwnCloud",
-      "url": "https://owncloud.com",
-      "icon": "icon-owncloud.png",
+      "name": "portainer local",
+      "url": "https://192.168.1.150:9443/",
+      "icon": "portainer.webp",
       "invert": false,
       "tags": [
-        "private sharing",
-        "intranet"
-      ]
-    },
-    {
-      "name": "Pastebin",
-      "url": "https://github.com/mkaczanowski/pastebin",
-      "icon": "icon-pastebin.png",
-      "invert": false,
-      "tags": [
-        "text"
-      ]
-    },
-    {
-      "name": "Element",
-      "url": "https://element.io",
-      "icon": "icon-element.png",
-      "invert": false,
-      "tags": [
-        "encrypted",
-        "chat",
-        "messaging"
-      ]
-    },
-    {
-      "name": "FreshRSS",
-      "url": "https://freshrss.org",
-      "icon": "icon-rss.png",
-      "invert": true,
-      "tags": [
-        "news",
-        "feed"
-      ]
-    },
-    {
-      "name": "Syncthing",
-      "url": "https://syncthing.net/",
-      "icon": "icon-syncthing.png",
-      "invert": false,
-      "tags": [
-        "files",
-        "encrypted"
+        "server",
+        "managing"
       ]
     }
   ]
