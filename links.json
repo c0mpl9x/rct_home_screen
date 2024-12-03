@@ -2,7 +2,7 @@
   "link": [
     {
       "name": "moodle upm",
-      "url": "https://moodle.upm.es/titulaciones/oficiales/my/",
+      "url": "https://moodle.upm.es/titulaciones/oficiales/my",
       "icon": "upm_c.png",
       "invert": false,
       "tags": [
@@ -39,7 +39,7 @@
     },
     {
       "name": "seafile cloud",
-      "url": "https://cloud.c0mpl9x.com/",
+      "url": "https://cloud.c0mpl9x.com",
       "icon": "seafile.png",
       "invert": false,
       "tags": [
@@ -49,12 +49,30 @@
     },
     {
       "name": "portainer local",
-      "url": "https://192.168.1.150:9443/",
+      "url": "https://192.168.1.150:9443",
       "icon": "portainer.webp",
       "invert": false,
       "tags": [
         "server",
         "managing"
+      ]
+    },
+    {
+      "name": "gemini",
+      "url": "https://gemini.google.com",
+      "icon": "gemini.webp",
+      "invert": false,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "name": "chatgpt",
+      "url": "https://chatgpt.com/",
+      "icon": "chatgpt.webp",
+      "invert": false,
+      "tags": [
+        "ai"
       ]
     }
   ]
