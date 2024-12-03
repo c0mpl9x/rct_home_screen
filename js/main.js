@@ -45,12 +45,12 @@ function toggleScanlines() {
 
 // Helper for toggling CRT color theme
 function greenTheme() {
-    $("#greenTheme").prop("checked", false);
+    $("#greenTheme").prop("checked", true);
     $("body").addClass("green");
     createCookie('greenTheme',1);
 }
 function amberTheme() {
-    $("#greenTheme").prop("checked", true);
+    $("#greenTheme").prop("checked", false);
     $("body").removeClass("green");
     createCookie('greenTheme',0);
 }
