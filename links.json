@@ -74,6 +74,15 @@
       "tags": [
         "ai"
       ]
+    },
+    {
+      "name": "calendar",
+      "url": "https://calendar.google.com/",
+      "icon": "calendar.png",
+      "invert": false,
+      "tags": [
+        "calendar"
+      ]
     }
   ]
 }
