@@ -2,7 +2,7 @@
   "link": [
     {
       "name": "moodle upm",
-      "url": "https://moodle.upm.es/titulaciones/oficiales/my",
+      "url": "https://moodle.upm.es/titulaciones/oficiales/my/",
       "icon": "upm_c.png",
       "invert": false,
       "tags": [
@@ -11,7 +11,7 @@
     },
     {
       "name": "github",
-      "url": "https://github.com/c0mpl9x",
+      "url": "https://github.com/c0mpl9x/",
       "icon": "github.png",
       "invert": false,
       "tags": [
@@ -21,7 +21,7 @@
     },
     {
       "name": "gmail",
-      "url": "https://gmail.com",
+      "url": "https://gmail.com/",
       "icon": "gmail.webp",
       "invert": false,
       "tags": [
@@ -30,7 +30,7 @@
     },
     {
       "name": "webmail upm",
-      "url": "https://upm.es/webmail_alumnos",
+      "url": "https://upm.es/webmail_alumnos/",
       "icon": "upm_c.png",
       "invert": false,
       "tags": [
@@ -39,7 +39,7 @@
     },
     {
       "name": "seafile cloud",
-      "url": "https://cloud.c0mpl9x.com",
+      "url": "https://cloud.c0mpl9x.com/",
       "icon": "seafile.png",
       "invert": false,
       "tags": [
@@ -49,7 +49,7 @@
     },
     {
       "name": "portainer local",
-      "url": "https://192.168.1.150:9443",
+      "url": "https://192.168.1.150:9443/",
       "icon": "portainer.webp",
       "invert": false,
       "tags": [
@@ -59,7 +59,7 @@
     },
     {
       "name": "gemini",
-      "url": "https://gemini.google.com",
+      "url": "https://gemini.google.com/",
       "icon": "gemini.webp",
       "invert": false,
       "tags": [
