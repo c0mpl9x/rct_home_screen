@@ -83,6 +83,15 @@
       "tags": [
         "calendar"
       ]
+    },
+    {
+      "name": "zlib",
+      "url": "https://es.1lib.sk/",
+      "icon": "zlib.png",
+      "invert": false,
+      "tags": [
+        "books"
+      ]
     }
   ]
 }
