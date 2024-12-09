@@ -92,6 +92,16 @@
       "tags": [
         "books"
       ]
+    },
+    {
+      "name": "drive",
+      "url": "https://drive.google.com/",
+      "icon": "drive.png",
+      "invert": false,
+      "tags": [
+        "private sharing",
+        "storage"
+      ]
     }
   ]
 }
