@@ -102,6 +102,16 @@
         "private sharing",
         "storage"
       ]
+    },
+    {
+      "name": "wavelog",
+      "url": "https://log.c0mpl9x.com/",
+      "icon": "wavelog.png",
+      "invert": false,
+      "tags": [
+        "log book",
+        "radio"
+      ]
     }
   ]
 }
